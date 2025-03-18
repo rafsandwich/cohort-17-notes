@@ -89,3 +89,21 @@ Minutes - 2 digits
 0-5
 
 0-9
+
+
+## Refactoring
+
+Code Smells: things that make your code bad
+
+- Duplicate code
+- Magic numbers (global variables)
+- Commented out code
+- Type hints (or lack of)
+- Function names
+- Variable names
+
+## Time and Space complexity
+
+O(n) - Big O notation
+
+![alt text](image.png)
